@@ -126,3 +126,28 @@ img.profile {
   margin-top: 0;
   font-size: 1.2rem;
 }
+
+/* Styles for the photography gallery on the Creative Work page */
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.photo-gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Placeholder styling for when no images are yet uploaded */
+.gallery-placeholder {
+  padding: 40px;
+  border: 2px dashed #ccc;
+  text-align: center;
+  color: #777;
+  font-style: italic;
+}
