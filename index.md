@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="hero">
-  ![Profile Picture]({{ '/assets/profile.jpg' | relative_url }}){: .profile }
+<img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile Picture" class="profile" />
 
   # Hi, I'm Ricky Tjandra
 
