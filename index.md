@@ -5,13 +5,14 @@ permalink: /
 ---
 
 <div class="hero">
-<img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile Picture" class="profile" />
+  <!-- Use HTML tags instead of Markdown inside the hero so Jekyll renders correctly -->
+  <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile Picture" class="profile" />
 
-  # Hi, I'm Ricky Tjandra
-
-  ## Director of Research & Medical Device Innovator
-
-  I'm a product and R&D leader with expertise in medical device innovation, biosensors, and MedTech commercialization. I build and lead teams to deliver impactful solutions that enhance patient care.
+  <h1>Hi, I'm Ricky Tjandra</h1>
+  <h2>Director of Research &amp; Medical Device Innovator</h2>
+  <p>
+    I'm a product and R&amp;D leader with expertise in medical device innovation, biosensors, and MedTech commercialization. I build and lead teams to deliver impactful solutions that enhance patient care.
+  </p>
 
   <div class="buttons">
     <a href="{{ '/resume' | relative_url }}">View Résumé</a>
