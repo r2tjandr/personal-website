@@ -1,0 +1,9 @@
+title: Ricky Tjandra
+description: Director of Research & Medical Device Innovator
+baseurl: ""
+permalink: pretty
+
+# GitHub Pages will automatically build this site.  The values above
+# set the site title and default permalink structure.  The `baseurl`
+# is kept empty so that links resolve correctly whether the site is
+# served from the root of a custom domain or from a project URL.
