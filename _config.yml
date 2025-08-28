@@ -2,7 +2,7 @@ title: Ricky Tjandra
 description: Director of Research & Medical Device Innovator
 baseurl: ""
 permalink: pretty
-theme: jekyll-theme-cayman
+theme: minima
 
 # GitHub Pages will automatically build this site. The values above
 # set the site title and default permalink structure. The 'baseurl'
