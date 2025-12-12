@@ -1,20 +1,19 @@
 ---
 layout: default
-title: Publications
+title: Patents and Publications
 permalink: /publications/
 ---
 
-# Publications
+# Patent and Publications
 
-## Selected Highlights
+## Selected Patents Publications
 
-- **Biosensor Innovation for Post‑operative Monitoring.** *Journal of Medical Devices*, 2022.  
-  Developed novel biosensor technology for detecting early signs of complications after abdominal surgery, improving detection accuracy and patient outcomes.
+- **Continuous pH monitoring using a sensor for the early detection of anastomotic leaks.** *Frontiers in Medical Technology*, 2023.  
 
-- **Data‑Driven Approach to Medical Device Design.** *Sensors and Actuators B: Chemical*, 2020.  
-  Combined biosensor technology with machine learning to identify critical parameters in device performance and accelerate product development.
+- **Systems, methods and devices for predicting and detecting postoperative complications** *USPTO*, 2022.  
 
-- **Nanotechnology Applications in Chemical Engineering.** *Chemical Engineering Journal*, 2018.  
-  Investigated nanoscale sensors for environmental and biological monitoring, paving the way for sensitive and rapid detection methods.
+- **Systems and methods for one-point, on-site calibration of sensors** *USPTO*, 2025.
 
-For a full list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=dbi2ccsAAAAJ&hl=en).
+- **All-carbon flexible supercapacitors based on electrophoretic deposition of graphene quantum dots on carbon cloth.** *Journal of Power Sources*, 2019
+
+For a full list of my patents and publications , please visit my [Google Scholar profile](https://scholar.google.com/citations?user=dbi2ccsAAAAJ&hl=en).
