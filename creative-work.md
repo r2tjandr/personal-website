@@ -6,9 +6,9 @@ permalink: /creative-work
 
 ## Creative Work
 
-Photography is one of my passions. This page will showcase a curated selection of my photographic work.
+Photography is one of my passions. This page will showcase a curated selection of my creative work.
 
-<p>For a wider portfolio of my photography, please check out my <a href="https://www.instagram.com/ricky.tjandra" target="_blank">Instagram</a>.</p>
+
 
 ### Weddings and Engagements
 
@@ -37,8 +37,6 @@ Photography is one of my passions. This page will showcase a curated selection o
 ### Other Work
 
 <div class="photo-gallery">
-  <img src="{{ '/assets/creative/placeholder1.png' | relative_url }}" alt="Other Work photo 1">
-  <img src="{{ '/assets/creative/placeholder2.png' | relative_url }}" alt="Other Work photo 2">
   <img src="{{ '/assets/creative/other1.jpg' | relative_url }}" alt="Other Work photo 3">
   <img src="{{ '/assets/creative/other2.jpg' | relative_url }}" alt="Other Work photo 4">
   <img src="{{ '/assets/creative/other3.jpg' | relative_url }}" alt="Other Work photo 5">
