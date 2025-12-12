@@ -4,9 +4,6 @@ title: Résumé
 permalink: /resume/
 ---
 
-# Résumé
-
-You can also [download a PDF version]({{ '/assets/Ricky_Tjandra_Resume.pdf' | relative_url }}) of my résumé.
 
 ## Contact
 
@@ -23,10 +20,11 @@ Product and R&D leader with 6+ years of **medical device industry experience**, 
 
 #### Director of Research | 2021–Present
 
+- Lead our Regulated Medical Device (RMD) business unit.
 - Defined and executed **product strategy and roadmaps** for biosensor‑based medical devices used in post‑operative complication detection.
 - Led cross‑functional team to achieve **first FDA 510(k) clearance**, aligning product requirements with clinician feedback, regulatory expectations, and market needs.
 - Partnered with surgeons, key opinion leaders, and hospitals to translate customer insights into product features, usability improvements, and evidence‑based validation.
-- Expanded IP portfolio 6x over two years, securing over \$100K in non‑dilutive funding.
+- Expanded IP portfolio 6x over two years, securing over \$200K in non‑dilutive funding.
 - Built and managed a high‑performing R&D team; collaborated with engineering, manufacturing, and quality to ensure product scalability and compliance.
 - Reported program and product health to C‑suite, clinical partners, and regulatory reviewers.
 
