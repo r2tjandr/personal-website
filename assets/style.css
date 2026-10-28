@@ -38,8 +38,7 @@ h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-top: 64px;
 h2::before { content: ""; display: block; width: 32px; height: 2px; background: var(--accent); margin-bottom: 16px; }
 
 /* Footer */
-.site-footer { padding: 16px var(--gutter); }
-.site-footer { border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.875rem; }
+.site-footer { padding: 16px var(--gutter); border-top: 1px solid var(--rule); color: var(--muted); font-size: 0.875rem; }
 
 /* Content */
 main { max-width: calc(var(--prose) + 2 * var(--gutter)); margin: 0 auto; padding: 64px var(--gutter); }
