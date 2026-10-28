@@ -43,7 +43,6 @@ h2::before { content: ""; display: block; width: 32px; height: 2px; background: 
   border-bottom: 1px solid var(--rule);
   background:
     radial-gradient(60rem 28rem at 85% 0%, rgba(14, 124, 123, 0.10), transparent 70%),
-    linear-gradient(var(--rule) 1px, transparent 1px) 0 0 / 100% 48px,
     var(--bg);
 }
 .hero-grid { display: grid; gap: var(--s4); align-items: center; }
