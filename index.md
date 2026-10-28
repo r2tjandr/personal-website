@@ -7,6 +7,7 @@ permalink: /
 <section class="hero">
 <div class="wrap hero-grid">
   <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Ricky Tjandra" class="profile">
+  <div class="hero-text">
   <h1>Ricky Tjandra</h1>
   <p class="tagline">Medical devices, from lab bench to market.</p>
   <p class="lede">Design, quality systems, regulatory and IP, handled by one advisor from start to finish.</p>
@@ -15,6 +16,7 @@ permalink: /
     <a class="btn btn-secondary" href="https://www.linkedin.com/in/rickytjandra/" target="_blank" rel="noopener">LinkedIn</a>
     <a class="btn btn-secondary" href="https://scholar.google.com/citations?user=dbi2ccsAAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar</a>
   </p>
+  </div>
 </div>
 </section>
 
