@@ -64,7 +64,7 @@ main > section:first-child { margin-top: var(--space-5); }
 main > :last-child { margin-bottom: var(--section); }
 main > .band:last-child { margin-bottom: 0; }
 main > ul:not(.cred-strip) li { margin-bottom: var(--space-2); }
-.intro .lede, .about p, section > p { max-width: var(--prose); }
+section > p { max-width: var(--prose); }
 
 /* Header */
 .site-header {
@@ -152,9 +152,8 @@ main > ul:not(.cred-strip) li { margin-bottom: var(--space-2); }
 .track { display: grid; gap: var(--space-4); margin-top: var(--space-3); }
 @media (min-width: 768px) { .track { grid-template-columns: 1fr 1.4fr; gap: var(--space-5); } }
 .stats { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-3); margin: 0; align-content: start; }
-.stats div { display: flex; flex-direction: column-reverse; justify-content: flex-end; }
-.stats dd { margin: 0; font-family: var(--font-serif); font-weight: 600; font-size: 3rem; line-height: 1.1; color: var(--accent); }
-.stats dt { margin: 0; }
+.stats .stat-num { margin: 0; font-family: var(--font-serif); font-weight: 600; font-size: 3rem; line-height: 1.1; color: var(--accent); }
+.stats .eyebrow { margin: 0; }
 .narrative { margin: 0; padding: 0; list-style: none; }
 .narrative li { margin-bottom: var(--space-3); }
 .footnote { margin-top: var(--space-4); font-size: 0.875rem; color: var(--muted); }
@@ -174,7 +173,7 @@ main > ul:not(.cred-strip) li { margin-bottom: var(--space-2); }
 .role { position: relative; margin-bottom: var(--space-4); break-inside: avoid; }
 .role:last-child { margin-bottom: 0; }
 .role::before { content: ""; position: absolute; left: calc(-1 * var(--space-3) - 4.5px); top: 0.55em; width: 9px; height: 9px; border-radius: 50%; background: var(--accent); }
-.role-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0 var(--space-2); margin: 0 0 var(--space-1); max-width: none; }
+.role-head { font-size: 1.0625rem; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0 var(--space-2); margin: 0 0 var(--space-1); max-width: none; }
 .role-title { font-weight: 600; color: var(--ink); }
 .role-head .dates { margin: 0; align-self: center; }
 .role ul { margin: 0; padding-left: 1.2em; }
@@ -196,20 +195,20 @@ main > ul:not(.cred-strip) li { margin-bottom: var(--space-2); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
 /* Résumé PDF */
-@page { size: Letter; margin: 0.6in; }
 @media print {
+  @page { size: Letter; margin: 0.6in; }
   body.resume { background: #fff; font-size: 11pt; line-height: 1.45; }
   body.resume .site-header,
   body.resume .site-footer,
   body.resume .band,
   body.resume .download { display: none; }
   body.resume main > * { margin-left: 0; margin-right: 0; }
-  body.resume main > section, body.resume main > section:first-child { margin-top: 18pt; }
+  body.resume main > section { margin-top: 18pt; }
   body.resume main > :last-child { margin-bottom: 0; }
   body.resume main > section:first-child { margin-top: 0; }
   body.resume h1 { font-size: 24pt; }
   body.resume h2 { font-size: 14pt; }
   body.resume main > section { break-inside: avoid; }
-  body.resume .role { break-inside: avoid; page-break-inside: avoid; margin-bottom: 12pt; }
+  body.resume .role { margin-bottom: 12pt; }
   body.resume a { color: inherit; text-decoration: none; }
 }

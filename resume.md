@@ -21,7 +21,7 @@ body_class: resume
   <p class="org">FluidAI Medical (formerly NERv Technology) · Waterloo, ON</p>
   <div class="timeline">
     <div class="role">
-      <p class="role-head"><span class="role-title">Vice President, Medical Devices</span><span class="dates eyebrow">Sep 2019–Present</span></p>
+      <h3 class="role-head"><span class="role-title">Vice President, Medical Devices</span><span class="dates eyebrow">Sep 2019–Present</span></h3>
       <ul>
         <li><strong>Product roadmap &amp; NPI:</strong> Led development and commercialization of the Origin biosensor platform from concept and feasibility through clinical validation to FDA 510(k) clearance (K243965). Maintain a prioritized roadmap across an IVD sensor platform, a clinical decision support algorithm (ALRC) and a patient monitoring device. Lifecycle strategy including COGS reduction and claims evolution aligned to cleared indications.</li>
         <li><strong>Business strategy:</strong> Built quantitative business cases and long-range financial projections supporting Series B fundraising. Wrote US marketing guidelines after 510(k) clearance defining permissible claims. Cultivated surgeon KOL, hospital and academic partnerships.</li>
@@ -38,16 +38,16 @@ body_class: resume
   <p class="org">University of Waterloo</p>
   <div class="timeline">
     <div class="role">
-      <p class="role-head"><span class="role-title">PhD, Chemical Engineering – Nanotechnology</span><span class="dates eyebrow">2015–2019</span></p>
+      <h3 class="role-head"><span class="role-title">PhD, Chemical Engineering – Nanotechnology</span><span class="dates eyebrow">2015–2019</span></h3>
       <ul>
         <li>Waterloo Institute for Nanotechnology; 20 peer-reviewed publications, 955+ citations.</li>
       </ul>
     </div>
     <div class="role">
-      <p class="role-head"><span class="role-title">MASc, Chemical Engineering – Nanotechnology</span><span class="dates eyebrow">2014–2015</span></p>
+      <h3 class="role-head"><span class="role-title">MASc, Chemical Engineering – Nanotechnology</span><span class="dates eyebrow">2014–2015</span></h3>
     </div>
     <div class="role">
-      <p class="role-head"><span class="role-title">BASc, Nanotechnology Engineering</span><span class="dates eyebrow">2009–2014</span></p>
+      <h3 class="role-head"><span class="role-title">BASc, Nanotechnology Engineering</span><span class="dates eyebrow">2009–2014</span></h3>
     </div>
   </div>
 </section>
