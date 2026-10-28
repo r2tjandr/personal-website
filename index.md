@@ -14,19 +14,19 @@ permalink: /
   </div>
 </section>
 
-<ul class="cred-strip eyebrow">
+<ul class="cred-strip eyebrow" role="list">
   <li>FDA 510(k)</li>
   <li>Health Canada</li>
   <li>SFDA</li>
-  <li>MDSAP</li>
-  <li>15 patent families</li>
+  <li>18 patent families</li>
   <li>PhD, Waterloo</li>
-  <li>RAPS FRA</li>
+  <li>RAC</li>
+  <li>ISO 13485 Lead Auditor</li>
 </ul>
 
 <section>
   <h2>End to end means end to end.</h2>
-  <ol class="rail">
+  <ol class="rail" role="list">
     <li><span class="node">1</span><span class="label">Concept</span></li>
     <li><span class="node">2</span><span class="label">Design inputs</span></li>
     <li><span class="node">3</span><span class="label">Design &amp; build</span></li>
@@ -65,7 +65,7 @@ permalink: /
 
 <section class="about">
   <h2>About</h2>
-  <p>I'm VP of Medical Devices at FluidAI Medical, where I lead the regulated devices business unit, serve as the company's regulatory affairs function, and head IP. I joined as an R&amp;D engineer in 2019 and helped take our first device from lab bench to FDA 510(k) clearance. Alongside that role, I take on a small number of advisory engagements with non-competing teams.</p>
+  <p>I'm VP of Medical Devices at FluidAI Medical, where I lead the regulated devices business unit, serve as the company's regulatory affairs function, and head IP. I joined in 2019 and led our first device from lab bench to FDA 510(k) clearance. Alongside that role, I take on a small number of advisory engagements with non-competing teams.</p>
 </section>
 
 <section class="band cta">

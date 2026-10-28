@@ -13,48 +13,22 @@ body_class: resume
 
 <section>
   <h2>Summary</h2>
-  <p>Medical device executive with 7+ years taking products from concept to regulatory clearance and commercialization. Leads a regulated devices business unit spanning product development, quality, regulatory affairs, and IP. Track record of FDA 510(k), Health Canada, and SFDA clearances for hardware, software, and AI-enabled devices.</p>
+  <p>Medical device product leader with a PhD in nanotechnology and end-to-end ownership across device development, regulatory strategy and commercial execution. Took a biosensor platform from concept to FDA 510(k) clearance (K243965), built multi-market regulatory strategy across FDA, Health Canada and GCC jurisdictions, and leads a cross-functional team spanning hardware, software, data science, clinical operations and quality.</p>
 </section>
 
 <section>
   <h2>Experience</h2>
-  <p class="org">FluidAI Medical (formerly NERv Technology)</p>
+  <p class="org">FluidAI Medical (formerly NERv Technology) · Waterloo, ON</p>
   <div class="timeline">
     <div class="role">
-      <p class="role-head"><span class="role-title">VP of Medical Devices</span><span class="dates eyebrow">2026–Present</span></p>
+      <p class="role-head"><span class="role-title">Vice President, Medical Devices</span><span class="dates eyebrow">Sep 2019–Present</span></p>
       <ul>
-        <li>Lead the Regulated Medical Devices business unit: Origin, Vital Signs Monitoring, and Technology Licensing Opportunities, plus shared QA/RA, QMS, IP, and clinical/R&amp;D studies.</li>
-        <li>Serve as the company's internal regulatory affairs function across FDA, Health Canada, and SFDA.</li>
-        <li>Head of IP; named inventor across a portfolio of 15 patent families.</li>
-        <li>Lead technical due diligence on technologies for acquisition or licensing.</li>
-        <li>Lead the MDSAP-certified ISO 13485 QMS through surveillance audits.</li>
-        <li>Deliver strategic initiatives for the Office of the CEO.</li>
+        <li><strong>Product roadmap &amp; NPI:</strong> Led development and commercialization of the Origin biosensor platform from concept and feasibility through clinical validation to FDA 510(k) clearance (K243965). Maintain a prioritized roadmap across an IVD sensor platform, a clinical decision support algorithm (ALRC) and a patient monitoring device. Lifecycle strategy including COGS reduction and claims evolution aligned to cleared indications.</li>
+        <li><strong>Business strategy:</strong> Built quantitative business cases and long-range financial projections supporting Series B fundraising. Wrote US marketing guidelines after 510(k) clearance defining permissible claims. Cultivated surgeon KOL, hospital and academic partnerships.</li>
+        <li><strong>Leadership:</strong> Player/coach lead across hardware, firmware, software, data science, clinical operations and quality; manage and coach product and QA associates. Present strategy and evidence to the board, investors and regulators.</li>
+        <li><strong>Regulatory &amp; quality:</strong> Own regulatory filings and agency engagement across US FDA, Health Canada, UAE MOHAP and Saudi FDA, managing submissions and external consultants. Key member of the team that set up and maintains the ISO 13485:2016-aligned QMS.</li>
+        <li><strong>R&amp;D investment &amp; IP:</strong> Hold the Medical Device business unit budget. Secured competitive external funding (Mitacs, NSERC Alliance, Digital Supercluster); oversee SR&amp;ED classification. Grew the patent portfolio from 3 to 18 active families.</li>
       </ul>
-    </div>
-    <div class="role">
-      <p class="role-head"><span class="role-title">Director of Research</span><span class="dates eyebrow">2021–2026</span></p>
-      <ul>
-        <li>Led the Regulated Medical Device business unit.</li>
-        <li>Defined and executed product strategy and roadmaps for biosensor-based devices for post-operative complication detection.</li>
-        <li>Led the cross-functional team to the company's first FDA 510(k) clearance (K243965), followed by Health Canada licensing and SFDA registration.</li>
-        <li>Partnered with surgeons, KOLs, and hospitals to translate clinical insights into product features, usability improvements, and evidence-based validation.</li>
-        <li>Expanded the IP portfolio 6× over two years, securing $200K+ in non-dilutive funding.</li>
-        <li>Built and managed the R&amp;D team; worked with engineering, manufacturing, and quality on scalability and compliance.</li>
-      </ul>
-    </div>
-    <div class="role">
-      <p class="role-head"><span class="role-title">R&amp;D Engineer</span><span class="dates eyebrow">2019–2020</span></p>
-      <ul>
-        <li>Prototyped and validated new sensor technologies for early device development and trials.</li>
-        <li>Implemented <strong>ISO 13485 and FDA‑compliant design control processes</strong> for first device iterations.</li>
-        <li>Supported <strong>preclinical and clinical studies</strong>, gathering data to demonstrate clinical and commercial value.</li>
-      </ul>
-    </div>
-  </div>
-  <p class="org">Assyro Inc.</p>
-  <div class="timeline">
-    <div class="role">
-      <p class="role-head"><span class="role-title">Advisor</span><span class="dates eyebrow">20XX–Present</span></p>
     </div>
   </div>
 </section>
@@ -64,25 +38,31 @@ body_class: resume
   <p class="org">University of Waterloo</p>
   <div class="timeline">
     <div class="role">
-      <p class="role-head"><span class="role-title">PhD, Chemical Engineering (Nanotechnology)</span><span class="dates eyebrow">2015–2019</span></p>
+      <p class="role-head"><span class="role-title">PhD, Chemical Engineering – Nanotechnology</span><span class="dates eyebrow">2015–2019</span></p>
       <ul>
-        <li>20 peer-reviewed publications, 300+ citations.</li>
+        <li>Waterloo Institute for Nanotechnology; 20 peer-reviewed publications, 955+ citations.</li>
       </ul>
+    </div>
+    <div class="role">
+      <p class="role-head"><span class="role-title">MASc, Chemical Engineering – Nanotechnology</span><span class="dates eyebrow">2014–2015</span></p>
+    </div>
+    <div class="role">
+      <p class="role-head"><span class="role-title">BASc, Nanotechnology Engineering</span><span class="dates eyebrow">2009–2014</span></p>
     </div>
   </div>
 </section>
 
 <section>
   <h2>Credentials</h2>
-  <p>RAPS Foundation in Regulatory Affairs (FRA)</p>
+  <p>RAC: Medical Devices (RAPS) · FRA: Medical Devices (RAPS) · ISO 13485:2016 Lead Auditor (Intertek SAI Global) · IEC 60601 (CSA)</p>
 </section>
 
 <section>
   <h2>Key skills</h2>
   <dl class="skills">
-    <div><dt class="eyebrow">Regulatory</dt><dd>FDA 510(k), De Novo, Q-Sub, Health Canada, SFDA, MDSAP, SaMD / CDS</dd></div>
-    <div><dt class="eyebrow">Quality</dt><dd>ISO 13485:2016, 21 CFR 820 (QMSR), 21 CFR Part 11, ISO 14971, design controls</dd></div>
-    <div><dt class="eyebrow">Product &amp; IP</dt><dd>Product strategy, PRDs/SRSs, roadmaps, patent strategy, FTO, technical due diligence</dd></div>
+    <div><dt class="eyebrow">Regulatory</dt><dd>FDA 510(k), De Novo, Q-Sub, Health Canada, SFDA, UAE MOHAP, SaMD / CDS</dd></div>
+    <div><dt class="eyebrow">Quality</dt><dd>ISO 13485:2016 (Lead Auditor), 21 CFR 820 (QMSR), 21 CFR Part 11, ISO 14971, IEC 60601, design controls</dd></div>
+    <div><dt class="eyebrow">Product &amp; IP</dt><dd>Product strategy, PRDs/SRSs, roadmaps, business cases, patent strategy, FTO, technical due diligence</dd></div>
     <div><dt class="eyebrow">Technical</dt><dd>Biosensors, electrochemical sensing, data analysis (Python), Agile, Jira, Confluence</dd></div>
   </dl>
 </section>

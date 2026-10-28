@@ -64,15 +64,15 @@ permalink: /consulting
   <p class="sub">Work I've led in my role at FluidAI Medical.</p>
   <div class="track">
     <dl class="stats">
-      <div><dd>3</dd><dt class="eyebrow">jurisdictions cleared</dt></div>
-      <div><dd>15</dd><dt class="eyebrow">patent families</dt></div>
-      <div><dd>20</dd><dt class="eyebrow">peer-reviewed publications</dt></div>
-      <div><dd>7+</dd><dt class="eyebrow">years in medtech</dt></div>
+      <div><dt class="eyebrow">jurisdictions cleared</dt><dd>3</dd></div>
+      <div><dt class="eyebrow">patent families</dt><dd>18</dd></div>
+      <div><dt class="eyebrow">peer-reviewed publications</dt><dd>20</dd></div>
+      <div><dt class="eyebrow">years in medtech</dt><dd>7+</dd></div>
     </dl>
     <ul class="narrative">
       <li><strong>Origin</strong> — led development of a hardware + software + AI post-operative monitoring system from a lab-bench concept through animal and clinical studies to <strong>FDA 510(k) clearance (K243965)</strong>, <strong>Health Canada licensing</strong>, and <strong>SFDA registration</strong>. Commercially deployed.</li>
       <li><strong>ALRC</strong> — AI-based risk software cleared in <strong>Canada and Saudi Arabia</strong>; led the US regulatory strategy including FDA Pre-Submission.</li>
-      <li><strong>QMS</strong> — maintain an MDSAP-certified ISO 13485 QMS through surveillance audits as the company's regulatory affairs lead.</li>
+      <li><strong>QMS</strong> — Key member of the team that set up and maintains an ISO 13485:2016-aligned QMS.</li>
     </ul>
   </div>
 </section>
