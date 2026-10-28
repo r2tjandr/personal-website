@@ -53,15 +53,10 @@ body_class: resume
 </section>
 
 <section>
-  <h2>Credentials</h2>
-  <p>RAC: Medical Devices (RAPS) · FRA: Medical Devices (RAPS) · ISO 13485:2016 Lead Auditor (Intertek SAI Global) · IEC 60601 (CSA)</p>
-</section>
-
-<section>
   <h2>Key skills</h2>
   <dl class="skills">
     <div><dt class="eyebrow">Regulatory</dt><dd>FDA 510(k), De Novo, Q-Sub, Health Canada, SFDA, UAE MOHAP, SaMD / CDS</dd></div>
-    <div><dt class="eyebrow">Quality</dt><dd>ISO 13485:2016 (Lead Auditor), 21 CFR 820 (QMSR), 21 CFR Part 11, ISO 14971, IEC 60601, design controls</dd></div>
+    <div><dt class="eyebrow">Quality</dt><dd>ISO 13485:2016, 21 CFR 820 (QMSR), 21 CFR Part 11, ISO 14971, design controls</dd></div>
     <div><dt class="eyebrow">Product &amp; IP</dt><dd>Product strategy, PRDs/SRSs, roadmaps, business cases, patent strategy, FTO, technical due diligence</dd></div>
     <div><dt class="eyebrow">Technical</dt><dd>Biosensors, electrochemical sensing, data analysis (Python), Agile, Jira, Confluence</dd></div>
   </dl>

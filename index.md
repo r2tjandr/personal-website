@@ -20,8 +20,6 @@ permalink: /
   <li>SFDA</li>
   <li>18 patent families</li>
   <li>PhD, Waterloo</li>
-  <li>RAC</li>
-  <li>ISO 13485 Lead Auditor</li>
 </ul>
 
 <section>
