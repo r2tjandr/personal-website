@@ -196,6 +196,7 @@ main > ul:not(.cred-strip) li { margin-bottom: var(--space-2); }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
 /* Résumé PDF */
+@page { size: Letter; margin: 0.6in; }
 @media print {
   body.resume { background: #fff; font-size: 11pt; line-height: 1.45; }
   body.resume .site-header,
@@ -208,6 +209,7 @@ main > ul:not(.cred-strip) li { margin-bottom: var(--space-2); }
   body.resume main > section:first-child { margin-top: 0; }
   body.resume h1 { font-size: 24pt; }
   body.resume h2 { font-size: 14pt; }
+  body.resume main > section { break-inside: avoid; }
   body.resume .role { break-inside: avoid; page-break-inside: avoid; margin-bottom: 12pt; }
   body.resume a { color: inherit; text-decoration: none; }
 }
