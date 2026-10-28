@@ -4,29 +4,73 @@ title: Home
 permalink: /
 ---
 
-<div class="hero">
-  <!-- Use HTML tags instead of Markdown inside the hero so Jekyll renders correctly -->
-  <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile Picture" class="profile" />
-
-  <h1>Ricky Tjandra</h1>
-  <h2>End-to-End Medical Device Design &amp; Development Consulting</h2>
-  <p>
-    I help medical device teams take a product from concept to clearance to market: design and development, quality systems, regulatory strategy, and IP, all under one roof.
-  </p>
-
-  <div class="buttons">
-    <a href="{{ '/consulting' | relative_url }}">Work With Me</a>
-    <a href="{{ '/resume' | relative_url }}">View Résumé</a>
-    <a href="https://www.linkedin.com/in/rickytjandra/" target="_blank">LinkedIn</a>
-    <a href="https://scholar.google.com/citations?user=dbi2ccsAAAAJ&hl=en" target="_blank">Google Scholar</a>
+<section class="hero">
+  <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Ricky Tjandra" class="profile">
+  <div class="hero-text">
+    <p class="eyebrow">Medical Device Design &amp; Development</p>
+    <h1>From bench concept to cleared device.</h1>
+    <p class="lede">I help medical device teams design, build, and clear their products — from first prototype through design controls, regulatory submission, and IP strategy. I've done it end to end, in three jurisdictions.</p>
+    <p class="actions"><a class="btn" href="mailto:{{ site.email }}">Email me</a> <a class="link-arrow" href="{{ '/resume/' | relative_url }}">View résumé →</a></p>
   </div>
-</div>
+</section>
 
-## Why work with me
+<ul class="cred-strip eyebrow">
+  <li>FDA 510(k)</li>
+  <li>Health Canada</li>
+  <li>SFDA</li>
+  <li>MDSAP</li>
+  <li>15 patent families</li>
+  <li>PhD, Waterloo</li>
+  <li>RAPS FRA</li>
+</ul>
 
-- **I have done it end to end.** I led a hardware, software and AI in vitro diagnostics (IVD) system from the lab bench through animal and clinical trials to FDA 510(k), Health Canada and SFDA clearance. It is now commercial.
-- **Industry experience.** Over six years in the medical device industry. I am Director of Research at FluidAI Medical, where I lead the regulated medical device business unit.
-- **Science and regulation together.** I hold a PhD in Chemical Engineering from the University of Waterloo, with 10+ papers and 300+ citations. I work within ISO 13485 and 21 CFR 820 design controls.
-- **IP and funding.** I grew an IP portfolio 6x and helped secure $200K+ in non-dilutive funding.
+<section>
+  <h2>End to end means end to end.</h2>
+  <ol class="rail">
+    <li><span class="node">1</span><span class="label">Concept</span></li>
+    <li><span class="node">2</span><span class="label">Design inputs</span></li>
+    <li><span class="node">3</span><span class="label">Design &amp; build</span></li>
+    <li><span class="node">4</span><span class="label">Verification</span></li>
+    <li><span class="node">5</span><span class="label">Validation</span></li>
+    <li><span class="node">6</span><span class="label">Submission</span></li>
+    <li><span class="node">7</span><span class="label">Launch &amp; post-market</span></li>
+  </ol>
+</section>
 
-See the [consulting services]({{ '/consulting' | relative_url }}) or read my [publications]({{ '/publications' | relative_url }}).
+<section>
+  <h2>How I can help</h2>
+  <div class="cards">
+    <a class="card card-link" href="{{ '/consulting' | relative_url }}">
+      <span class="num">01</span>
+      <h3>Product design &amp; development</h3>
+      <p>Translate research into a manufacturable, verifiable product.</p>
+    </a>
+    <a class="card card-link" href="{{ '/consulting' | relative_url }}">
+      <span class="num">02</span>
+      <h3>Quality management systems</h3>
+      <p>Stand up a QMS that's right-sized for your stage and passes audit.</p>
+    </a>
+    <a class="card card-link" href="{{ '/consulting' | relative_url }}">
+      <span class="num">03</span>
+      <h3>Regulatory strategy</h3>
+      <p>Pick the right pathway and build the submission.</p>
+    </a>
+    <a class="card card-link" href="{{ '/consulting' | relative_url }}">
+      <span class="num">04</span>
+      <h3>IP strategy</h3>
+      <p>Protect what matters and know where you can operate.</p>
+    </a>
+  </div>
+</section>
+
+<section class="about">
+  <h2>About</h2>
+  <p>I'm VP of Medical Devices at FluidAI Medical, where I lead the regulated devices business unit, serve as the company's regulatory affairs function, and head IP. I joined as an R&amp;D engineer in 2019 and helped take our first device from lab bench to FDA 510(k) clearance. Alongside that role, I take on a small number of advisory engagements with non-competing teams.</p>
+</section>
+
+<section class="band cta">
+  <div class="band-inner">
+    <h2>Building a medical device? Let's talk.</h2>
+    <a class="btn btn-light" href="mailto:{{ site.email }}">Email me</a>
+  </div>
+</section>

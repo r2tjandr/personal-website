@@ -4,9 +4,9 @@ title: Patents and Publications
 permalink: /publications/
 ---
 
-# Patent and Publications
+# Patents & Publications
 
-## Selected Patents Publications
+## Selected Patents & Publications
 
 - **Continuous pH monitoring using a sensor for the early detection of anastomotic leaks.** *Frontiers in Medical Technology*, 2023.  
 
@@ -16,4 +16,4 @@ permalink: /publications/
 
 - **All-carbon flexible supercapacitors based on electrophoretic deposition of graphene quantum dots on carbon cloth.** *Journal of Power Sources*, 2019
 
-For a full list of my patents and publications , please visit my [Google Scholar profile](https://scholar.google.com/citations?user=dbi2ccsAAAAJ&hl=en).
+For a full list of my patents and publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=dbi2ccsAAAAJ&hl=en).
